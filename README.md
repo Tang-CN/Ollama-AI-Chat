@@ -2,6 +2,10 @@
 
 基于 NestJS + React + TypeScript 的全栈 AI 聊天应用，支持流式数据响应和实时 Markdown 渲染。
 
+## 💻 效果预览
+
+![preview](https://raw.githubusercontent.com/Tang-CN/Ollama-AI-Chat/main/img/ai-chat.gif)
+
 ## 🚀 功能特性
 
 ### 后端服务 (ollama-service)
